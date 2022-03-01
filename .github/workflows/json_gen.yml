@@ -20,15 +20,13 @@
           - name: execute py script # run the run.py to get the latest data
             run: |
               python json_creator.py
-          - name: switching from HTTPS to SSH
-            run: git remote set-url origin ${{ secrets.ssh }}
-          - name: check for changes
-            run: git status
-          - name: stage changed files
-            run: git add .
-          - name: commit changed files
-            run: git commit -m "Auto updating img_data.json"
-          - name: fetch from master
-            run: git fetch origin master
-          - name: push code to master
-            run: git push origin HEAD:master
+          - name: Commit files # transfer the new html files back into the repository
+            run: |
+                git config --local user.name "Image to Json Generation Action"
+                git add ./img_data.json
+                git commit -m "Auto Updating the img_data.json"
+          - name: Push changes # push the output folder to your repo
+            uses: ad-m/github-push-action@master
+            with:
+                github_token: ${{ secrets.GITHUB_TOKEN }}
+                force: true
