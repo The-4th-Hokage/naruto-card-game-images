@@ -1,425 +1,15 @@
 {
-    "ajisai_pain": {
+    "sakon_and_ukon": {
         "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/ajisai_pain.jpg"
-        ],
-        "category": "akatsuki"
-    },
-    "deidara": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/deidara.jpg"
-        ],
-        "category": "akatsuki"
-    },
-    "hidan": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/hidan.jpg"
-        ],
-        "category": "akatsuki"
-    },
-    "hoshigaki_kisame": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/hoshigaki_kisame/hoshigaki_kisame.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/hoshigaki_kisame/tailess_bijju.jpg"
-        ],
-        "category": "akatsuki"
-    },
-    "hozuki_suigetsu": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/hozuki_suigetsu.jpg"
-        ],
-        "category": "akatsuki"
-    },
-    "jugo": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/jugo.jpg"
-        ],
-        "category": "akatsuki"
-    },
-    "kakuzu": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/kakuzu.jpg"
-        ],
-        "category": "akatsuki"
-    },
-    "konan": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/konan/konan.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/konan/konan_akatsuki.jpg"
-        ],
-        "category": "akatsuki"
-    },
-    "pain_tendou": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/pain_tendou.jpg"
-        ],
-        "category": "akatsuki"
-    },
-    "sasori": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/sasori.jpg"
-        ],
-        "category": "akatsuki"
-    },
-    "six_path_of_pain": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/six_path_of_pain.jpg"
-        ],
-        "category": "akatsuki"
-    },
-    "uchiha_itachi": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/uchiha_itachi.jpg"
-        ],
-        "category": "akatsuki"
-    },
-    "uchiha_madara": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/uchiha_madara.jpg"
-        ],
-        "category": "akatsuki"
-    },
-    "uchiha_obito": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/uchiha_obito/uchiha_obito_child.png",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/uchiha_obito/uchiha_obito_villian.jpg"
-        ],
-        "category": "akatsuki"
-    },
-    "uchiha_sasuke": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/uchiha_sasuke/uchiha_sasuke_akatsuki.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/uchiha_sasuke/uchiha_sasuke_child.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/uchiha_sasuke/uchiha_sasuke_cursed_mark.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/uchiha_sasuke/uchiha_sasuke_rinnegan.jpg"
-        ],
-        "category": "akatsuki"
-    },
-    "yahiko": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/yahiko.jpg"
-        ],
-        "category": "akatsuki"
-    },
-    "yakushi_kabuto": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/yakushi_kabuto/kabuto.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/yakushi_kabuto/yakushi.jpg"
-        ],
-        "category": "akatsuki"
-    },
-    "uzumaki_kushina": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/jinchuruki/uzumaki_kushina/uzumaki_kushina.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/jinchuruki/uzumaki_kushina/uzumaki_kushina_child.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/jinchuruki/uzumaki_kushina/uzumaki_kushina_karin.jpg"
-        ],
-        "category": "jinchuruki"
-    },
-    "uzumaki_naruto": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/jinchuruki/uzumaki_naruto/hokage_uzumaki_naruto.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/jinchuruki/uzumaki_naruto/kcm_uzumaki_naruto.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/jinchuruki/uzumaki_naruto/uzumaki_naruto.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/jinchuruki/uzumaki_naruto/uzumaki_naruto_child.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/jinchuruki/uzumaki_naruto/uzumaki_naruto_child_1.jpg"
-        ],
-        "category": "jinchuruki"
-    },
-    "a": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/A.jpg"
-        ],
-        "category": "kage"
-    },
-    "chojuro": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/chojuro.jpg"
-        ],
-        "category": "kage"
-    },
-    "darui": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/darui.jpg"
-        ],
-        "category": "kage"
-    },
-    "gaara": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/gaara.jpg"
-        ],
-        "category": "kage"
-    },
-    "hatake_kakashi": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/hatake_kakashi/hatake_kakashi.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/hatake_kakashi/kakashi_unmasked.jpg"
-        ],
-        "category": "kage"
-    },
-    "kurotsuchi": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/kurotsuchi.jpg"
-        ],
-        "category": "kage"
-    },
-    "mei_terumi": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/mei_terumi.jpg"
-        ],
-        "category": "kage"
-    },
-    "mu": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/mu.jpg"
-        ],
-        "category": "kage"
-    },
-    "namikaze_minato": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/namikaze_minato/kcm_minato_namiakze.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/namikaze_minato/minato_namikaze.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/namikaze_minato/namikaze_minato.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/namikaze_minato/reaper_death_seal.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/namikaze_minato/yondaime_hokage.jpg"
-        ],
-        "category": "kage"
-    },
-    "sarutobi_hiruzen": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/sarutobi_hiruzen/saindaime_hokage.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/sarutobi_hiruzen/sarutobi_hiruzen.jpg"
-        ],
-        "category": "kage"
-    },
-    "senju_hashirama": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/senju_hashirama/senju_hashirama.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/senju_hashirama/shodai_hokage.jpg"
-        ],
-        "category": "kage"
-    },
-    "senju_tobirama": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/senju_tobirama.jpg"
-        ],
-        "category": "kage"
-    },
-    "senju_tsunade": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/senju_tsunade/senju_tsunade.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/senju_tsunade/senju_tsunade_hokage.jpg"
-        ],
-        "category": "kage"
-    },
-    "aburame_shino": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/aburame_shino/aburame_shino.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/aburame_shino/shino_war.jpg"
-        ],
-        "category": "konohagakure"
-    },
-    "akimichi_choji": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/akimichi_choji/akimichi_choji.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/akimichi_choji/akimichi_choji_adult.jpg"
-        ],
-        "category": "konohagakure"
-    },
-    "haruno_sakura": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/haruno_sakura/haruno_sakura_adult.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/haruno_sakura/haruno_sakura_child.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/haruno_sakura/haruno_sakura_child_1.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/haruno_sakura/haruno_sakura_war.jpg"
-        ],
-        "category": "konohagakure"
-    },
-    "hyuga_hanabi": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/hyuga_hanabi.jpg"
-        ],
-        "category": "konohagakure"
-    },
-    "hyuga_hinata": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/hyuga_hinata/hyufga_hinata.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/hyuga_hinata/hyuga_hinata_beach.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/hyuga_hinata/hyuga_hinata_child.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/hyuga_hinata/hyuga_hinata_chirstmas.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/hyuga_hinata/hyuga_hinata_war.jpg"
-        ],
-        "category": "konohagakure"
-    },
-    "hyuga_hizashi": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/hyuga_hizashi.jpg"
-        ],
-        "category": "konohagakure"
-    },
-    "hyuga_neji": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/hyuga_neji/neji_hyuga_child.jpg"
-        ],
-        "category": "konohagakure"
-    },
-    "inuzuka_kiba": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/inuzuka_kiba.jpg"
-        ],
-        "category": "konohagakure"
-    },
-    "jiraya": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/jiraya/jiraya.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/jiraya/jiraya_pain_fight.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/jiraya/jiraya_senin_mode.jpg"
-        ],
-        "category": "konohagakure"
-    },
-    "kamizuki_izumo": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/kamizuki_izumo.jpg"
-        ],
-        "category": "konohagakure"
-    },
-    "maito_guy": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/maito_guy/maito_guy.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/maito_guy/maito_guy_eight_gates.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/maito_guy/maito_guy_madara.jpg"
-        ],
-        "category": "konohagakure"
-    },
-    "morino_ibiki": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/morino_ibiki.jpg"
-        ],
-        "category": "konohagakure"
-    },
-    "nara_shikamaru": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/nara_shikamaru/nara_shikamaru_adult.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/nara_shikamaru/nara_shikamaru_child.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/nara_shikamaru/nara_shikamaru_war.jpg"
-        ],
-        "category": "konohagakure"
-    },
-    "noahara_rin": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/noahara_rin.jpg"
-        ],
-        "category": "konohagakure"
-    },
-    "rock_lee": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/rock_lee/rock_lee.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/rock_lee/rock_lee_war.jpg"
-        ],
-        "category": "konohagakure"
-    },
-    "sai": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/sai.jpg"
-        ],
-        "category": "konohagakure"
-    },
-    "sarutobi_asuma": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/sarutobi_asuma.jpg"
-        ],
-        "category": "konohagakure"
-    },
-    "sarutobi_konohamaru": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/sarutobi_konohamaru.jpg"
-        ],
-        "category": "konohagakure"
-    },
-    "shimura_danzo": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/shimura_danzo.jpg"
-        ],
-        "category": "konohagakure"
-    },
-    "team_7": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/team_7.jpg"
-        ],
-        "category": "konohagakure"
-    },
-    "temari": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/sunagakure/temari.jpg"
-        ],
-        "category": "sunagakure"
-    },
-    "teuchi": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/teuchi.jpg"
-        ],
-        "category": "konohagakure"
-    },
-    "umino_iruka": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/umino_iruka.jpg"
-        ],
-        "category": "konohagakure"
-    },
-    "uzuki_yugao": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/uzuki_yugao.jpg"
-        ],
-        "category": "konohagakure"
-    },
-    "yamanaka_ino": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/yamanaka_ino.jpg"
-        ],
-        "category": "konohagakure"
-    },
-    "yamato": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/yamato/yamato.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/yamato/yamato_anbu.jpg"
-        ],
-        "category": "konohagakure"
-    },
-    "yuhi_kurenai": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/yuhi_kurenai.jpg"
-        ],
-        "category": "konohagakure"
-    },
-    "killer_bee": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kumogakure/killer_bee.jpg"
-        ],
-        "category": "kumogakure"
-    },
-    "abumi_zaki": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/otogakure/abumi_zaki.jpg"
-        ],
-        "category": "otogakure"
-    },
-    "jirobo": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/otogakure/jirobo/jirobo.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/otogakure/jirobo/jirobo1.jpg"
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/otogakure/sakon_and_ukon/sakon.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/otogakure/sakon_and_ukon/sakon_and_ukon.jpg"
         ],
         "category": "otogakure"
     },
     "kidomaru": {
         "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/otogakure/kidomaru/kidomaru.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/otogakure/kidomaru/kidomaru1.jpg"
-        ],
-        "category": "otogakure"
-    },
-    "kimimaro": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/otogakure/kimimaro.jpg"
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/otogakure/kidomaru/kidomaru1.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/otogakure/kidomaru/kidomaru.jpg"
         ],
         "category": "otogakure"
     },
@@ -429,32 +19,50 @@
         ],
         "category": "otogakure"
     },
+    "jirobo": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/otogakure/jirobo/jirobo1.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/otogakure/jirobo/jirobo.jpg"
+        ],
+        "category": "otogakure"
+    },
+    "kimimaro": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/otogakure/kimimaro.jpg"
+        ],
+        "category": "otogakure"
+    },
+    "tayuya": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/otogakure/tayuya/tayuya1.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/otogakure/tayuya/tayuya.jpg"
+        ],
+        "category": "otogakure"
+    },
+    "uzumaki_karin": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/otogakure/uzumaki_karin/uzumaki_karin_1.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/otogakure/uzumaki_karin/uzumaki_karin.jpg"
+        ],
+        "category": "otogakure"
+    },
     "orochimaru": {
         "images": [
             "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/otogakure/orochimaru.jpg"
         ],
         "category": "otogakure"
     },
-    "sakon_and_ukon": {
+    "abumi_zaki": {
         "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/otogakure/sakon_and_ukon/sakon.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/otogakure/sakon_and_ukon/sakon_and_ukon.jpg"
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/otogakure/abumi_zaki.jpg"
         ],
         "category": "otogakure"
     },
-    "tayuya": {
+    "killer_bee": {
         "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/otogakure/tayuya/tayuya.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/otogakure/tayuya/tayuya1.jpg"
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kumogakure/killer_bee.jpg"
         ],
-        "category": "otogakure"
-    },
-    "uzumaki_karin": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/otogakure/uzumaki_karin/uzumaki_karin.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/otogakure/uzumaki_karin/uzumaki_karin_1.jpg"
-        ],
-        "category": "otogakure"
+        "category": "kumogakure"
     },
     "ashura_otsutsuki": {
         "images": [
@@ -474,15 +82,15 @@
         ],
         "category": "otsutsuki"
     },
-    "otsutsuki_kaguya": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/otsutsuki/otsutsuki_kaguya.jpg"
-        ],
-        "category": "otsutsuki"
-    },
     "otsutsuki_toneri": {
         "images": [
             "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/otsutsuki/otsutsuki_toneri.png"
+        ],
+        "category": "otsutsuki"
+    },
+    "otsutsuki_kaguya": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/otsutsuki/otsutsuki_kaguya.jpg"
         ],
         "category": "otsutsuki"
     },
@@ -491,6 +99,387 @@
             "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/otsutsuki/white_zetsu.jpg"
         ],
         "category": "otsutsuki"
+    },
+    "gaara": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/gaara.jpg"
+        ],
+        "category": "kage"
+    },
+    "kurotsuchi": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/kurotsuchi.jpg"
+        ],
+        "category": "kage"
+    },
+    "a": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/A.jpg"
+        ],
+        "category": "kage"
+    },
+    "hatake_kakashi": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/hatake_kakashi/hatake_kakashi.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/hatake_kakashi/kakashi_unmasked.jpg"
+        ],
+        "category": "kage"
+    },
+    "namikaze_minato": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/namikaze_minato/namikaze_minato.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/namikaze_minato/reaper_death_seal.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/namikaze_minato/kcm_minato_namiakze.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/namikaze_minato/yondaime_hokage.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/namikaze_minato/minato_namikaze.jpg"
+        ],
+        "category": "kage"
+    },
+    "darui": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/darui.jpg"
+        ],
+        "category": "kage"
+    },
+    "senju_tsunade": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/senju_tsunade/senju_tsunade_hokage.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/senju_tsunade/senju_tsunade.jpg"
+        ],
+        "category": "kage"
+    },
+    "sarutobi_hiruzen": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/sarutobi_hiruzen/saindaime_hokage.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/sarutobi_hiruzen/sarutobi_hiruzen.jpg"
+        ],
+        "category": "kage"
+    },
+    "mei_terumi": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/mei_terumi.jpg"
+        ],
+        "category": "kage"
+    },
+    "mu": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/mu.jpg"
+        ],
+        "category": "kage"
+    },
+    "chojuro": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/chojuro.jpg"
+        ],
+        "category": "kage"
+    },
+    "senju_tobirama": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/senju_tobirama.jpg"
+        ],
+        "category": "kage"
+    },
+    "senju_hashirama": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/senju_hashirama/shodai_hokage.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/kage/senju_hashirama/senju_hashirama.jpg"
+        ],
+        "category": "kage"
+    },
+    "yamato": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/yamato/yamato.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/yamato/yamato_anbu.jpg"
+        ],
+        "category": "konohagakure"
+    },
+    "haruno_sakura": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/haruno_sakura/haruno_sakura_child_1.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/haruno_sakura/haruno_sakura_war.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/haruno_sakura/haruno_sakura_adult.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/haruno_sakura/haruno_sakura_child.jpg"
+        ],
+        "category": "konohagakure"
+    },
+    "hyuga_hizashi": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/hyuga_hizashi.jpg"
+        ],
+        "category": "konohagakure"
+    },
+    "rock_lee": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/rock_lee/rock_lee.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/rock_lee/rock_lee_war.jpg"
+        ],
+        "category": "konohagakure"
+    },
+    "akimichi_choji": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/akimichi_choji/akimichi_choji.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/akimichi_choji/akimichi_choji_adult.jpg"
+        ],
+        "category": "konohagakure"
+    },
+    "aburame_shino": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/aburame_shino/shino_war.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/aburame_shino/aburame_shino.jpg"
+        ],
+        "category": "konohagakure"
+    },
+    "maito_guy": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/maito_guy/maito_guy.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/maito_guy/maito_guy_eight_gates.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/maito_guy/maito_guy_madara.jpg"
+        ],
+        "category": "konohagakure"
+    },
+    "sarutobi_asuma": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/sarutobi_asuma.jpg"
+        ],
+        "category": "konohagakure"
+    },
+    "jiraya": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/jiraya/jiraya_pain_fight.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/jiraya/jiraya.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/jiraya/jiraya_senin_mode.jpg"
+        ],
+        "category": "konohagakure"
+    },
+    "team_7": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/team_7.jpg"
+        ],
+        "category": "konohagakure"
+    },
+    "inuzuka_kiba": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/inuzuka_kiba.jpg"
+        ],
+        "category": "konohagakure"
+    },
+    "morino_ibiki": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/morino_ibiki.jpg"
+        ],
+        "category": "konohagakure"
+    },
+    "nara_shikamaru": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/nara_shikamaru/nara_shikamaru_war.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/nara_shikamaru/nara_shikamaru_adult.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/nara_shikamaru/nara_shikamaru_child.jpg"
+        ],
+        "category": "konohagakure"
+    },
+    "sai": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/sai.jpg"
+        ],
+        "category": "konohagakure"
+    },
+    "uzuki_yugao": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/uzuki_yugao.jpg"
+        ],
+        "category": "konohagakure"
+    },
+    "sarutobi_konohamaru": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/sarutobi_konohamaru.jpg"
+        ],
+        "category": "konohagakure"
+    },
+    "kamizuki_izumo": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/kamizuki_izumo.jpg"
+        ],
+        "category": "konohagakure"
+    },
+    "noahara_rin": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/noahara_rin.jpg"
+        ],
+        "category": "konohagakure"
+    },
+    "temari": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/sunagakure/temari.jpg"
+        ],
+        "category": "sunagakure"
+    },
+    "hyuga_hanabi": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/hyuga_hanabi.jpg"
+        ],
+        "category": "konohagakure"
+    },
+    "teuchi": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/teuchi.jpg"
+        ],
+        "category": "konohagakure"
+    },
+    "shimura_danzo": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/shimura_danzo.jpg"
+        ],
+        "category": "konohagakure"
+    },
+    "yuhi_kurenai": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/yuhi_kurenai.jpg"
+        ],
+        "category": "konohagakure"
+    },
+    "hyuga_neji": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/hyuga_neji/neji_hyuga_child.jpg"
+        ],
+        "category": "konohagakure"
+    },
+    "umino_iruka": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/umino_iruka.jpg"
+        ],
+        "category": "konohagakure"
+    },
+    "yamanaka_ino": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/yamanaka_ino.jpg"
+        ],
+        "category": "konohagakure"
+    },
+    "hyuga_hinata": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/hyuga_hinata/hyufga_hinata.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/hyuga_hinata/hyuga_hinata_child.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/hyuga_hinata/hyuga_hinata_chirstmas.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/hyuga_hinata/hyuga_hinata_war.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/konohagakure/hyuga_hinata/hyuga_hinata_beach.jpg"
+        ],
+        "category": "konohagakure"
+    },
+    "sasori": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/sasori.jpg"
+        ],
+        "category": "akatsuki"
+    },
+    "hozuki_suigetsu": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/hozuki_suigetsu.jpg"
+        ],
+        "category": "akatsuki"
+    },
+    "ajisai_pain": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/ajisai_pain.jpg"
+        ],
+        "category": "akatsuki"
+    },
+    "yakushi_kabuto": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/yakushi_kabuto/yakushi.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/yakushi_kabuto/kabuto.jpg"
+        ],
+        "category": "akatsuki"
+    },
+    "uchiha_obito": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/uchiha_obito/uchiha_obito_child.png",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/uchiha_obito/uchiha_obito_villian.jpg"
+        ],
+        "category": "akatsuki"
+    },
+    "hoshigaki_kisame": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/hoshigaki_kisame/tailess_bijju.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/hoshigaki_kisame/hoshigaki_kisame.jpg"
+        ],
+        "category": "akatsuki"
+    },
+    "six_path_of_pain": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/six_path_of_pain.jpg"
+        ],
+        "category": "akatsuki"
+    },
+    "konan": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/konan/konan.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/konan/konan_akatsuki.jpg"
+        ],
+        "category": "akatsuki"
+    },
+    "pain_tendou": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/pain_tendou.jpg"
+        ],
+        "category": "akatsuki"
+    },
+    "kakuzu": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/kakuzu.jpg"
+        ],
+        "category": "akatsuki"
+    },
+    "hidan": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/hidan.jpg"
+        ],
+        "category": "akatsuki"
+    },
+    "jugo": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/jugo.jpg"
+        ],
+        "category": "akatsuki"
+    },
+    "uchiha_itachi": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/uchiha_itachi.jpg"
+        ],
+        "category": "akatsuki"
+    },
+    "deidara": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/deidara.jpg"
+        ],
+        "category": "akatsuki"
+    },
+    "uchiha_madara": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/uchiha_madara.jpg"
+        ],
+        "category": "akatsuki"
+    },
+    "uchiha_sasuke": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/uchiha_sasuke/uchiha_sasuke_rinnegan.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/uchiha_sasuke/uchiha_sasuke_child.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/uchiha_sasuke/uchiha_sasuke_cursed_mark.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/uchiha_sasuke/uchiha_sasuke_akatsuki.jpg"
+        ],
+        "category": "akatsuki"
+    },
+    "yahiko": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/akatsuki/yahiko.jpg"
+        ],
+        "category": "akatsuki"
+    },
+    "momochi_zabuza": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/special/momochi_zabuza/zabuza.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/special/momochi_zabuza/momochi_zabuza.jpg"
+        ],
+        "category": "special"
     },
     "chiriku": {
         "images": [
@@ -504,17 +493,28 @@
         ],
         "category": "special"
     },
-    "momochi_zabuza": {
-        "images": [
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/special/momochi_zabuza/momochi_zabuza.jpg",
-            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/special/momochi_zabuza/zabuza.jpg"
-        ],
-        "category": "special"
-    },
     "kankuro": {
         "images": [
             "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/sunagakure/kankuro.jpg"
         ],
         "category": "sunagakure"
+    },
+    "uzumaki_kushina": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/jinchuruki/uzumaki_kushina/uzumaki_kushina_child.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/jinchuruki/uzumaki_kushina/uzumaki_kushina.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/jinchuruki/uzumaki_kushina/uzumaki_kushina_karin.jpg"
+        ],
+        "category": "jinchuruki"
+    },
+    "uzumaki_naruto": {
+        "images": [
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/jinchuruki/uzumaki_naruto/kcm_uzumaki_naruto.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/jinchuruki/uzumaki_naruto/uzumaki_naruto_child_1.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/jinchuruki/uzumaki_naruto/uzumaki_naruto.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/jinchuruki/uzumaki_naruto/hokage_uzumaki_naruto.jpg",
+            "https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-images/master/photo_data/jinchuruki/uzumaki_naruto/uzumaki_naruto_child.jpg"
+        ],
+        "category": "jinchuruki"
     }
 }
