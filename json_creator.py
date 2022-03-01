@@ -8,16 +8,16 @@ url_append = 'https://raw.githubusercontent.com/The-4th-Hokage/naruto-card-game-
 photo_dir = BASE_DIR / "photo_data"
 photo_data_dict = {}
 
-for foldername in os.listdir(photo_dir):
-    list_images = []
-    for filename in os.listdir(photo_dir / foldername):
-        if os.path.isdir(photo_dir / os.path.join(foldername, filename)):
-            for i in os.listdir(photo_dir / os.path.join(foldername, filename)):
-                list_images.append(url_append+filename+'/'+i)
-            photo_data_dict.update({filename.lower(): {'images':list_images, 'category': foldername}})
+for category in os.listdir(photo_dir):
+    for filename in os.listdir(photo_dir / category):
+        list_images = []
+        if os.path.isdir(photo_dir / os.path.join(category, filename)):
+            for j in os.listdir(photo_dir / os.path.join(category, filename)):
+                list_images.append(url_append+category+'/'+filename+'/'+j)
+            photo_data_dict.update({filename.lower(): {'images':list_images, 'category': category}})
         else:
-            list_images.append(url_append+filename)
-            photo_data_dict.update({filename[:-4].lower(): {'images':list_images, 'category': foldername}})
+            list_images.append(url_append+category+'/'+filename)
+            photo_data_dict.update({filename[:-4].lower(): {'images':list_images, 'category': category}})
 
 with open('img_data.json','w') as f:
     f.write(json.dumps(photo_data_dict, indent=4))
