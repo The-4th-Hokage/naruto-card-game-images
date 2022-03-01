@@ -20,4 +20,3 @@
           - name: execute py script # run the run.py to get the latest data
             run: |
               python json_creator.py
-          - name: export index
